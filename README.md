@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Remus Muthomi</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remusmt" alt="remusmt" /></a> </p>
-
 - 👯 I’m looking to collaborate on [MUI](https://github.com/mui/mui-x)
 
 - 💬 Ask me about **.Net, React**
