@@ -1,5 +1,6 @@
+<img src="full-stack-developer.gif"/>
 <h1 align="center">Hi 👋, I'm Remus Muthomi</h1>
-<h3 align="center">A passionate fullstack developer from Kenya</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 - 💬 Ask me about **.Net, React**
 
