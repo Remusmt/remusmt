@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Remus Muthomi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img src="full-stack-developer.gif" width="100%" height="300"/>
-- 💬 Ask me about **.Net, React**
+- 💬 Ask me about **.Net, Node, React and Angular**
 
 - 📫 How to reach me **remusmt@gmail.com**
 
